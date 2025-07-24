@@ -1,0 +1,5 @@
+Sum: 270
+Min: 12
+Max: 89
+Mean: 45.0
+Median: 39.5
